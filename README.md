@@ -4,6 +4,6 @@
 
 - Fullstack developer
 <br>🌐 [My site](https://m4r5ha11.com) 
-<br>⌨️ [Discord Server (RU)](https://discord.gg/c4uJydpbC2)
+<br>⌨️ [Discord Server (RU)](https://discord.gg/Tjp6caYKnE)
 
 
