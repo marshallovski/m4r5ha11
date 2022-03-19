@@ -2,7 +2,7 @@ Hello, I'm marshallovski!
 <br>
 Web developer from Ukraine
 
-   * Currently I'm working on **Molix OS**
+   * Currently I'm working on **Monori** (an anonymous imageboard)
 
    * Currently I'm learning Lua and Svelte
 
