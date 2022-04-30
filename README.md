@@ -2,9 +2,9 @@ Hello, my name is Nikita Kharchenko!
 <br>
 Web developer from Ukraine
 
-   * Currently I'm working on **Monori** (an anonymous imageboard)
+   * Currently I'm working on **Molix** (Web-powered OS)
 
-   * Currently I'm learning Lua and Svelte
+   * Currently I'm learning Lua and Svelte and Lit
 
    * What I'm use: HTML, CSS, JavaScript (usually on client side, but I'm use nodejs sometimes), EJS
    
