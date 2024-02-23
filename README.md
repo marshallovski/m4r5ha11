@@ -3,7 +3,7 @@
 <p>I'm marshallovski - programmer and OSS fan from Ukraine!</p>
 <br>
 
-since 16.01.2023 (dd.mm.yyyy)
+Wakatime coding time since 16.01.2023 (dd.mm.yyyy)
 <br>
 ![Wakatime total time](https://wakatime.com/badge/user/b5a90bba-b9d7-4547-b6ef-b033498f3af8.svg) 
 
